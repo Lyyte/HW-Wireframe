@@ -1,6 +1,16 @@
+body {
+    font-family: 'Arial', 'Helvetica Nuee', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    margin: auto;
+}
+
 section {
     float:left;
     width: 495px;
+    padding: 30px;
     background: #ebebeb; 
     text-align: center;
     height: 200px;
@@ -8,14 +18,15 @@ section {
 
 .HNSAF {
     background: #ebebeb; 
-    text-align: center; 
+    text-align: center;
+    padding: 30px; 
  }
 
 article {
     color: #ebebeb;
     background: #777;
     height: 150px;
-    padding: 15px;
+    padding: 10px;
  }
 
 .h1p {
